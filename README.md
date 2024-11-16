@@ -1,19 +1,28 @@
-# Awesome Behavioral Interviews
-This repository contains tips and resources to prepare for behavioral interviews.
+<p align="center">
+  <img src="images/behvaioral-repo-logo.png" width="350" height="200">
+</p>
+<p align="center">
+  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
+</p>
 
-## General Tips to succeed in Behavioral Interviews
+This repository contains tips and resources to prepare for Behavioral interviews.
+
+## ✅ General Tips to succeed in Behavioral Interviews
 1. **Understand the STAR Method:** Familiarize yourself with the STAR method (Situation, Task, Action, Result) for structuring your responses. This helps you provide clear and concise answers and keeps your answers focused.
 1. **Listen attentively:** Pay close attention to the interviewer's questions and follow-up prompts. Make sure your responses directly address what's being asked.
-1. **Be concise:** Keep your responses focused and concise. Avoid rambling or providing excessive details that are not directly relevant.
+1. **Be concise:** Keep your answers short and to the point. Don't go off-topic.
 1. **Ask Clarifying Questions:** If you're unsure about a question, ask for clarification to ensure you understand what the interviewer is looking for It's ok to tell the interviewer you want time to collect your thoughts.
-1. **Avoid Negative Language:** Refrain from speaking negatively about past employers, colleagues, or experiences. Stay professional and constructive. You don't want to be disrespectful, offensive, arrogant, mean, confrontational.
+1. **Avoid Negative Language:** Refrain from speaking negatively about past employers, colleagues, or experiences.
+1. **Stay professional and constructive:** You don't want to be disrespectful, offensive, arrogant, mean, confrontational.
 1. **Highlight your strengths:** Frame your responses in a positive light. Even when discussing challenges or failures, focus on what you learned and how you improved.
 1. **Ask thoughtful questions:** Interviewing is a two-way street. Ask questions to learn more about the company, culture, etc..
 1. **It's ok to not have answer to every question:** If you are asked a question which you can't recall from past experience you can tell the interviewer *"I think I don't actually have this experience but I would love to tell you how I would react in this situation"*
-1. **Highlight you are a Team Player:** Strike a balance between highlighting your qualities and your ability to work in a team and help others. Talk about stories that reflect qualities and team work (both you qualities and team work).
-1. **Practice, Practice, Practice:** Preparing ahead of time will help you recollect thoughts easily and help you frame answers better. Best way to prepare is to go through a bunch of interview questions and think about how you would answer them.
+1. **Highlight you are a Team Player:** Strike a balance between highlighting your qualities and your ability to work in a team and help others. Talk about stories that reflect qualities and team work (both your qualities and team work).
+1. **Be Honest:** If you don't know the answer to a question, it's better to admit it than to make something up.
+1. **Prepare ahead of time:** Preparing before the interview will help you remember things more easily and frame answers better.
+1. **Practice common questions:** Best way to prepare is to go through common interview questions and think about how you would answer them.
 
-## STAR Framework
+## 🌟 STAR Framework
 The STAR framework is a structured method for answering behavioral interview questions effectively. 
 
 STAR stands for Situation, Task, Action, and Result.
@@ -44,7 +53,7 @@ Here are a few more common behavioral interview questions along with STAR-based 
    - **Action:** "I quickly organized a meeting with the design and development teams to discuss the changes and their feasibility within the timeline..."
    - **Result:** "We successfully implemented the design changes without delaying the project, and the app received positive reviews from users."
 
-## Behavioral Interview Preparation Grid
+## ⚙️ Behavioral Interview Preparation Grid
 This format is inspired by the book "Cracking the Coding Interview" by Gayle Laakman McDowell.
 
 I found it really helpful during my preparation. 
@@ -52,11 +61,11 @@ I found it really helpful during my preparation.
 Create a sheet and list down common questions and their answers for each project. 
 
 You can clone the Notion page and fill this sheet based on your experience.
-![Interview Preparation Grid](interview-preparation-grid.png)
+![Interview Preparation Grid](images/interview-preparation-grid.png)
 [Notion Page](https://ashishps.notion.site/ashishps/Behavioral-Interview-Preparation-Grid-95f97d42f3494d86a3a683752c4b54b5)
 
 
-## Questions
+## 🚀 Questions
 **Disclaimer:** Please note that the provided sample responses to these questions are intended to serve as inspiration. During the actual interview, you should provide your own examples based on your past experiences.
 <details>
 <summary><b>Tell me about yourself.</b></summary>
@@ -897,8 +906,21 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
 </ul>
 </details>
+<details>
+<summary><b>How would you respond if you were the last member of the team in the office on a Friday afternoon and the product owner asks you to develop and deploy a change to production?</b></summary>
+<ul>
+    <li><b>Situation: </b>
+    </li>
+    <li><b>Task: </b>
+    </li>
+    <li><b>Action: </b>
+    </li>
+    <li><b>Result: </b>
+    </li>
+</ul>
+</details>
 
-## Questions you can ask the interviewer
+## ？Questions you can ask the interviewer
 - What brought you to this company? What has been most challenging for you?
 - Can you share some insight about the day-to-day responsibilities of this position? What’s a typical day like?
 - Can you tell me about the opportunities for career advancement at [company name]?
@@ -916,5 +938,5 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 - What excites you the most about the [company name]'s future?
 - I’m very interested in scalability, and I’d love to learn more about it. What opportunities are there at this company to learn more about this?
 
-## Other Resources
-[Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+## 📇 Other Resources
+- [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
